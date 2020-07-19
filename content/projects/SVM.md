@@ -6,7 +6,7 @@ external: 'https://csciitd-my.sharepoint.com/:b:/g/personal/ee1170938_iitd_ac_in
 tech:
   - Tensorflow
   - python
-  - Jupyter Notebook
+  - Jupyter
 company: 'IIT Delhi'
 showInProjects: true
 ---

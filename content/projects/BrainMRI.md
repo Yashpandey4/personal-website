@@ -7,7 +7,7 @@ tech:
   - MATLAB
   - Image Processing
 company: 'IIT Delhi, AIIMS'
-showInProjects: false
+showInProjects: True
 ---
 
 Performed image enhancement and noise reduction using median/high pass filters on MRI images, then applied morphological operations (threshhold and watershed segmentation) to detect the tumor in the image.

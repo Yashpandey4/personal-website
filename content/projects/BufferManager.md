@@ -7,7 +7,7 @@ tech:
   - C++
   - PostgreSQL
 company: 'IIT Delhi'
-showInProjects: true
+showInProjects: false
 ---
 
 Implemented a custom Buffer Manager using a file manager API (written from scratch in C++) that would support sorting and searching in a given list of integers larger than what can be stored in the buffer.

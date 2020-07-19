@@ -7,7 +7,7 @@ tech:
   - Flask
   - SQLite
   - REST
-showInProjects: true
+showInProjects: false
 ---
 
 An easy to use and beautifully designed web app used to take notes online built using Flask.
