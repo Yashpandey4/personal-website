@@ -2,18 +2,18 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - WordPress
+  - TypeScript, React
+  - Tensorflow
+  - Django, Flask
+  - PyTorch
+  - VueJS, NodeJS
+  - PostgreSQL, MongoDB
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Pratyush Pandey, a passionate software developer from India. I believe good software should be invisible at best, magic and delightful to use at worst, and that simplicity is worth the extra effort to achieve. Simplicity is the whole point.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+While I have written software for Fortune 500 companies and have received scholarships and awards by renowned institutions for my work, I don't expect you to be impressed by that. I certainly wouldn't be.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Currently, I am pursuing the final year of my Bachelors at Indian Institute of Technology Delhi ([IIT Delhi](https://home.iitd.ac.in/)). I am from Mumbai, so its only natural I still refuse to call Delhi home. Outside college, I am into into debates, journalism and music and hope to revisit these soon.
 
 Here are a few technologies I've been working with recently:

@@ -1,37 +1,38 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/master/src/images/logo.png" width="100" />
+  <img src="https://i.imgur.com/OtNqaaO.png" alt="Resume on the Web" width="400px" />
 </div>
 <h1 align="center">
-  brittanychiang.com - v4
+  pratyushpandey.com
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  My personal portfolio and resume on the web, <a href="https://www.pratyushpandey.com" target="_blank">pratyushpandey.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
+
 <p align="center">
-  Previous iterations:
-  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
-  <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
-  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
-</p>
-<p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
+  <a href="https://app.netlify.com/sites/yashpandey4/deploys" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
   </a>
 </p>
+<p align="center">
+  [![Website](https://img.shields.io/website-up-down-green-red/http/amruthpillai.com.svg)](https://www.pratyushpandey.com/)
+  [![Uptime Robot](https://img.shields.io/uptimerobot/ratio/m781987043-24c5463b2c0e80a630682bd0.svg?style=flat)](https://www.pratyushpandey.com/)
+  [![Last Commit](https://img.shields.io/github/last-commit/amruthpillai/resumeontheweb-angular.svg?style=flat)](https://www.pratyushpandey.com/)
+  ![Code Size](https://img.shields.io/github/languages/code-size/amruthpillai/resumeontheweb-gatsby.svg?style=flat)
+  ![MIT License](https://img.shields.io/github/license/amruthpillai/resumeontheweb-gatsby.svg?style=flat)
+</p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/master/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/Yashpandey4/personal-website/master/src/images/demo.png)
 
-## 🚨 Forking this repo (please read!)
+Everyone needs their own little spot on the interwebs, and this is mine.  
+**Welcome to my resume, on the web!**
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+## Introduction
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
+The site is powered by Gatsby, the Real Man's blogging platform which allows for it to simply be a build-able, versioned, software project on GitHub. It's 2020. You don't need a relational database management system for some mostly-static HTML. Stop it.
 
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+The design represents a compromise between a desire for single-column naked, focused, simplicity and the fun and frolic of animation, color, and widgets in the Time Machine-inspired main banner navigation, and has been inspired by [Brittany Chiang](https://github.com/bchiang7). Check her work out, she has an amazing portfolio.
 
-### TL;DR
-
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Please also note that this site was not built with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/). If you would like to peek around the code and see what makes this website tick, the complete source code is open to probing right here on GitHub. This project is copylefted under the permissive [MIT License](https://github.com/Yashpandey4/personal-website/blob/master/LICENSE), however, proper attributions to owners is expected.
 
 ## 🛠 Installation & Set Up
 
