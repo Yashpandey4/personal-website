@@ -7,7 +7,7 @@ tech:
   - C++
   - MPI
   - P2P Communication
-company: 'Apple'
+company: 'IIT Delhi'
 showInProjects: true
 ---
 
