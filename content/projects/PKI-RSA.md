@@ -7,6 +7,7 @@ tech:
   - Python
   - GMP Library
   - Vingere Cipher
+company: 'IIT Delhi'
 showInProjects: true
 ---
 

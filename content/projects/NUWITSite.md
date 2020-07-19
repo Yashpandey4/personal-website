@@ -1,13 +1,13 @@
 ---
-date: '2015-12-20'
-title: 'NU Women in Tech'
-github: 'https://github.com/nuwit/website'
-external: 'https://nuwit.ccs.neu.edu/'
+date: '2018-05-01'
+title: 'BTree Algorithm Visualizer'
+github: 'https://github.com/Yashpandey4/COL362-Database-Management-Systems/tree/master/5.%20BTrees%20Visualiser'
+external: ''
 tech:
-  - Jekyll
-  - Bootstrap
-company: 'Northeastern'
+  - Java
+  - JavaFX
+company: 'IIT Delhi'
 showInProjects: true
 ---
 
-Complete overhaul and redesign of NU Women in Tech's club website using Jekyll, built while serving as web chair on the e-board.
+Developed a algorithm visualizer app to demonstrate key insertion and deletion processes in [B Tree](https://en.wikipedia.org/wiki/B-tree) and its variants [B+ Tree](https://en.wikipedia.org/wiki/B%2B_tree), [B* Tree](https://www.geeksforgeeks.org/b-trees-implementation-in-c/). This data structure is popular in File Storage and DBMS due to faster IO operations.

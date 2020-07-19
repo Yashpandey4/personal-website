@@ -1,12 +1,13 @@
 ---
 date: '2020-02-02'
 title: 'Cryptanalysis of Hill Cipher'
-github: 'https://github.com/bchiang7/react-profile'
-external: 'https://bchiang7.github.io/react-profile/'
+github: 'https://github.com/Yashpandey4/COL759-Cryptography/tree/master/1.%20Hill%20Cipher%20Cryptanalysis'
+external: ''
 tech:
   - Python
   - Hill Cipher
   - GMP Library
+company: 'IIT Delhi'
 showInProjects: true
 ---
 

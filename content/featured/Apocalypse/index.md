@@ -3,7 +3,7 @@ date: '1'
 title: 'Apocalypse: A survival game'
 cover: './Apocalypse.png'
 github: 'https://github.com/Yashpandey4/Apocalypse-the-game'
-external: 'https://octoprofile.now.sh'
+external: ''
 tech:
   - Unity 3D
   - C#
