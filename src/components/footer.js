@@ -105,7 +105,7 @@ const Footer = () => {
           href="https://github.com/Yashpandey4/personal-website"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Built by Pratyush Pandey &amp; Designed By Brittany Chiang</div>
+          <div>Built 🛠️ &amp; Designed 🎨 By Pratyush Pandey</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>

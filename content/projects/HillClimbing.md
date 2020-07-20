@@ -7,7 +7,7 @@ tech:
   - C++
   - Simulated Annealing
 company: 'IIT Delhi'
-showInProjects: false
+showInProjects: true
 ---
 
 Created an AI search based implementation for the infamous string matching problem for duplicating DNA sequences in computational biology. Used Hill Climbing and Simulated Annealing methods to achieve the task.

@@ -9,7 +9,7 @@ tech:
   - PyTorch
   - Keras
 company: 'SUTD'
-showInProjects: false
+showInProjects: true
 ---
 
 Created a new regularisation method for DNNs which improved training efficiency of ResNets, ResNeXts, CNNs and FCNNs by 1% on most datasets as compared to DropOuts.  

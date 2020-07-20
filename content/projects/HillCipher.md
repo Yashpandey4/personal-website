@@ -8,7 +8,7 @@ tech:
   - Hill Cipher
   - GMP Library
 company: 'IIT Delhi'
-showInProjects: true
+showInProjects: false
 ---
 
 Encrypted given text using the [Hill Cipher](https://en.wikipedia.org/wiki/Hill_cipher) Encryption Scheme. Wrote a module to perform cryptanalysis of text encrypted by this scheme, decrypting it and returning the encryption key.

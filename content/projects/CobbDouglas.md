@@ -6,7 +6,7 @@ external: 'https://github.com/Yashpandey4/Cobb-Douglas-Function/blob/master/HUL_
 tech:
   - R
   - Cobb-Douglas
-showInProjects: true
+showInProjects: false
 ---
 
 Implemented an R based data analytics model on the Cobb-Douglas function to estimate values of the responsiveness of output to a change in levels of either labor or capital used in production.

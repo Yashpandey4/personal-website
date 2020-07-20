@@ -14,7 +14,7 @@
   </a>
 </p>
 
-[![Website](https://img.shields.io/website-up-down-green-red/http/amruthpillai.com.svg)](https://pratyushpandey.netlify.app/)
+[![Website](https://img.shields.io/website-up-down-green-red/http/pratyushpandey.netlify.app.svg)](https://pratyushpandey.netlify.app/)
 [![Uptime Robot](https://img.shields.io/uptimerobot/ratio/m781987043-24c5463b2c0e80a630682bd0.svg?style=flat)](https://pratyushpandey.netlify.app/)
 [![Last Commit](https://img.shields.io/github/last-commit/Yashpandey4/personal-website.svg?style=flat)](https://pratyushpandey.netlify.app/)
 ![Code Size](https://img.shields.io/github/languages/code-size/Yashpandey4/personal-website.svg?style=flat)
