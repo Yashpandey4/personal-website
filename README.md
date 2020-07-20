@@ -2,10 +2,10 @@
   <img src="https://i.imgur.com/OtNqaaO.png" alt="Resume on the Web" width="400px" />
 </div>
 <h1 align="center">
-  pratyushpandey.com
+  PratyushPandey.com
 </h1>
 <p align="center">
-  My personal portfolio and resume on the web, <a href="https://www.pratyushpandey.com" target="_blank">pratyushpandey.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  My personal portfolio and resume on the web, <a href="https://pratyushpandey.netlify.app/" target="_blank">pratyushpandey.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 <p align="center">
@@ -13,13 +13,13 @@
     <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
   </a>
 </p>
-<p align="center">
-  [![Website](https://img.shields.io/website-up-down-green-red/http/amruthpillai.com.svg)](https://www.pratyushpandey.com/)
-  [![Uptime Robot](https://img.shields.io/uptimerobot/ratio/m781987043-24c5463b2c0e80a630682bd0.svg?style=flat)](https://www.pratyushpandey.com/)
-  [![Last Commit](https://img.shields.io/github/last-commit/amruthpillai/resumeontheweb-angular.svg?style=flat)](https://www.pratyushpandey.com/)
-  ![Code Size](https://img.shields.io/github/languages/code-size/amruthpillai/resumeontheweb-gatsby.svg?style=flat)
-  ![MIT License](https://img.shields.io/github/license/amruthpillai/resumeontheweb-gatsby.svg?style=flat)
-</p>
+
+[![Website](https://img.shields.io/website-up-down-green-red/http/amruthpillai.com.svg)](https://pratyushpandey.netlify.app/)
+[![Uptime Robot](https://img.shields.io/uptimerobot/ratio/m781987043-24c5463b2c0e80a630682bd0.svg?style=flat)](https://pratyushpandey.netlify.app/)
+[![Last Commit](https://img.shields.io/github/last-commit/amruthpillai/resumeontheweb-angular.svg?style=flat)](https://pratyushpandey.netlify.app/)
+![Code Size](https://img.shields.io/github/languages/code-size/amruthpillai/resumeontheweb-gatsby.svg?style=flat)
+![MIT License](https://img.shields.io/github/license/amruthpillai/resumeontheweb-gatsby.svg?style=flat)
+
 
 ![demo](https://raw.githubusercontent.com/Yashpandey4/personal-website/master/src/images/demo.png)
 

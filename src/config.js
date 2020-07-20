@@ -4,7 +4,7 @@ module.exports = {
     'Pratyush Pandey is a software engineer, who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
     'Pratyush Pandey, Pratyush, Pandey, yashpandey4, pratyushpandey4, pratyuush99, software engineer, front-end engineer, web developer, javascript, IIT Delhi, Coder',
-  siteUrl: 'https://pratyushpandey.com',
+  siteUrl: 'https://pratyushpandey.netlify.app/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
@@ -12,7 +12,7 @@ module.exports = {
   location: 'Delhi, India',
   email: 'yashpandey4@gmail.com',
   github: 'https://github.com/yashpandey4',
-  twitterHandle: '@pratyushpandey4',
+  twitterHandle: '@pratyuush99',
   socialMedia: [
     {
       name: 'GitHub',

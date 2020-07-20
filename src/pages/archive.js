@@ -110,7 +110,7 @@ const ArchivePage = ({ location, data }) => {
     <Layout location={location}>
       <Helmet>
         <title>Archive | Pratyush Pandey</title>
-        <link rel="canonical" href="https://pratyushpandey.com/archive" />
+        <link rel="canonical" href="https://pratyushpandey.netlify.app//archive" />
       </Helmet>
 
       <StyledMainContainer>
