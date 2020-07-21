@@ -11,8 +11,7 @@ tags:
 
 ![Microsoft](./mslogo.jpg)
 
-# On my time as a “Virtual” Intern at MSFT
-
+    
 Okay. 
 
 ..... okay.  
