@@ -1,9 +1,9 @@
 ---
 date: '2018-05-14'
 title: 'Software Engineer Intern'
-company: 'Covered By Sage'
+company: 'Renegade Insurance (Covered By Sage)'
 location: 'Atlanta, GA'
-range: 'July 2020 - Present'
+range: 'July 2020 - Dec 2020'
 url: 'https://coveredbysage.com/'
 ---
 
